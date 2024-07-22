@@ -1,1 +1,4 @@
-ignore/
+.vscode/
+hello.java
+literals.java
+operators.java
