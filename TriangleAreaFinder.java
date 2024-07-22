@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class TriangleAreaFinder {
 	public static void main(String[] args) {
         float height, base;

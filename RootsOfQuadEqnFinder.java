@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class RootsOfQuadEqnFinder {
     public static void main(String[] args) {
         System.out.println("This is a program to find the roots of a quadratic equation.");
