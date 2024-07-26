@@ -1,16 +1,9 @@
-<h1>These Are Some Interesting Java Programs I Am Making While Learning Java!</h1>
+# These Are Some Interesting Java Programs I Am Making While Learning Java!
 
-<h3>Con2dec.java</h3>
-<p>This is a basic program that converts numbers from various number systems to decimal system.</p>
+hello everyone! welcome to my github page, I am Fateen.An sixteen year guy who is very interested in computer science :) I am learning java and these are some files that i have made while learning.This is a active repo and I upload files to it daily as long as I am learning java.. So anyone who wants to clone can do so and join me on this journey of becoming an amazing java engineer. I am very excited on this journey,are You?
 
-<h3>DataTypesInfo</h3>
-<p>this is a basic program that displays very minimal information about data size/range of data types in java.</p>
+Instagram: https://instagram.com/fateenwajahat<br>
+GitHub: https://github.com/fateenwajahat
 
-<h3>TriangleAreaFinder</h3>
-<p>This is a program that can be used to find area of triangle using the general formula as well as using herons formula.</p>
-
-<h3>RootsOfQuadEqnFinder</h3>
-<p>This is a program that can be used to find roots of a quadratic equation.It uses Quadratic formula to find the roots.</p>
-
-
+Happy coding :D
 
