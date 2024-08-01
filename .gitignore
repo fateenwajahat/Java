@@ -1,8 +1,9 @@
 .vscode/
+.idea/
+out/
 hello.java
 literals.java
 operators.java
 IncrementDecrementOperators.java
 BitwiseOperators.java
-.idea/
 fateen.iml
